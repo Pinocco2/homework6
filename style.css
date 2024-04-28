@@ -1,0 +1,333 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+html, body {
+    background-color: rgb(51, 48, 48);
+    scroll-behavior: smooth;
+}
+header {
+    background-image: url("./dizajn-kukhni.jpg.webp");
+    background-size: cover;
+    height: 820px;
+    width: 1349px;
+    margin: 0;
+}
+.spusok {
+    display: flex;
+    list-style: none;
+    color: rgb(231, 228, 178);
+    padding-top: 20px;
+}
+.nomer1 {
+    padding-right: 440px;
+    padding-left: 60px;
+    font-size: 19px;
+}
+.nomer {
+    padding-right: 30px;
+    font-size: 19px;
+    padding-top: 25px;
+    color: #c2b48e;
+    text-decoration: none;
+}
+.button {
+    margin-top: 18px;
+    height: 40px; 
+    width: 120px;
+    color: #c2b48e;
+    border-color: #c2b48e;
+    border: 1px solid;
+    background: transparent;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.center {
+    text-align: center;
+    margin-top: 250px;
+    color: aliceblue;  
+}
+.title {
+    font-size: 55px;
+    margin-bottom: 25px;
+}
+.sub-title {
+    font-size: 30px;
+}
+main {
+    background-color: rgb(51, 48, 48);
+    height: 3000px;
+}
+.services {
+    border-color: #c2b48e;
+    display: flex;
+    justify-content: space-between;
+}
+.services-img {
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 574px;
+    height: 600px;
+}
+.services-texts {
+    margin-right: 280px;
+    margin-top: 215px;
+    color: aliceblue;
+}
+.title2 {
+    margin-bottom: 45px;
+    font-size: 50px;
+}
+.list {
+    font-size: 18px;
+    padding-bottom: 45px;
+}
+.number1 {
+    margin-bottom: 12px;
+}
+.number2 {
+    margin-bottom: 12px;
+}
+.number3 {
+    margin-bottom: 12px;
+}
+.number4 {
+    margin-bottom: 12px;
+}
+.button2 {
+    height: 60px;
+    width: 200px;
+    color: rgb(255, 249, 240);
+    background-color: #c2b48e; 
+    border: 1px;
+    cursor: pointer;
+}
+.table1 {
+    color: aliceblue;
+    border-color: #c2b48e;
+    margin: auto;
+    border-collapse: collapse;
+    width: 1150px;
+    margin-top: 20px;
+    height: 287px;
+    text-align: center;
+    font-size: 20px;
+}
+.komirka {
+    width: 287px;
+    font-size: 25px;
+}
+.komirka1 {
+    width: 574px;
+    font-size: 25px;
+    color: aliceblue;
+    padding-left: 50px;
+    height: 700px;
+}
+.teXt {
+    color: #c2b48e;
+}
+.komirka2 {
+    width: 575px;
+    height: 700px;
+}
+.img60 {
+    width: 575px;  
+}
+.table {
+    height: 650px;
+    margin: auto;
+    border-color: #c2b48e;
+    border-collapse: collapse;
+}
+.headline {
+    text-align: center;
+    color: aliceblue;
+}
+.button3 {
+    height: 60px;
+    width: 200px;
+    color: rgb(255, 249, 240);
+    background-color: #c2b48e;
+    border: 1px;
+    margin-left: 575px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.ytf1 {
+    width: 200px; 
+    margin-bottom: -270px;
+    margin-left: 35px;
+    margin-top: 30px;
+}
+.ytf2 {
+    width: 200px;
+    margin-left: 60px;
+    margin-bottom: -112px;
+}
+.ytf3 {
+    width: 200px;
+    margin-left: 35px;
+}
+.ytf4 {
+    width: 200px;
+    margin-left: 60px;
+
+}
+.ytf5 {
+    width: 750px;
+    margin-left: 60px;
+}
+
+.ZagoloVok {
+    color: aliceblue;
+    text-align: center;
+    margin-top: 60px;
+}
+.table2 {
+    margin: auto;
+    width: 1153px;
+    border-color: #c2b48e;
+    border-collapse: collapse;
+}
+.aaaaa {
+    width: 200px;
+    height: 200px;
+}
+.table3 {
+    margin: auto;
+    height: 400px;
+    width: 1150px;
+    color: aliceblue;
+    border-color: #c2b48e;
+    border-collapse: collapse;
+    margin-top: 70px;
+
+}
+.colum1 {
+    width: 287px;
+    text-align: center;
+    font-size: 33px;
+    background-color: #c2b48e;
+}
+.colum2 {
+    width: 287px;
+    text-align: center;
+    font-size: 19px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.colum3 {
+    width: 287px;
+    text-align: center;
+    font-size: 19px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.colum4 {
+    width: 287px;
+    text-align: center;
+    font-size: 19px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+footer {
+    margin-bottom: 150px;
+}
+.footer {
+    display: flex;
+    width: 1300px;
+}
+.list-footer {
+list-style: none;
+margin-bottom: px;
+padding-left: 85px;
+}
+.line {
+    margin-bottom: 45px;
+    color: #c2b48e;
+
+}
+form {
+    margin: auto;
+    
+
+}
+.group {
+    margin: 10px;
+    padding: 5px;
+    color:#c2b48e ;
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+
+}
+.input {
+    height: 45px;
+    width:  100%;
+    background-color: #b62e2e00;
+    border: none;
+    border-bottom: 1px solid white;
+}
+.nuz {
+    text-align: center;
+    color: #c2b48e ;
+}
+.button4 {
+    height: 45px;
+    background-color: #ffffff00;
+    border-color:#c2b48e;
+    border: 0,5px;
+    color:#c2b48e ;
+    cursor: pointer;
+}
+.email {
+    width: 426px;
+    justify-content: center ;
+    
+}
+.galleru-right {
+    display: flex;
+}
+.galleru-left {
+    display: flex;
+}
+.end-line1 {
+    margin-bottom: 45px;
+}
+.button5 {
+    width: 140px;
+    height:45px;
+    background-color: #c2b48e;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+}
+
+.line1 {
+    border: none;
+    color: #c2b48e;
+    background-color: #ffffff00;
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.end-line {
+    cursor: pointer;
+}
+.mem {
+    color: #c2b48e;
+    font-size: 33px;
+    margin-top: 30px;
+}
+.end {
+    margin-top: 122px;
+}
